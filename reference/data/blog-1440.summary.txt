@@ -1,0 +1,142 @@
+# blog-1440.json
+scroll 2626 width 1440
+body {"backgroundColor":"rgb(250, 247, 243)","color":"rgb(0, 0, 0)","fontFamily":"sans-serif","fontSize":"12px"}
+
+## Named layout
+Navigation Link | 1260,756 | 160x35 | U s e f o r F r e e | rgb(17, 17, 17) | 8px | fixed | 1
+Navigation Link | 1260,799 | 160x35 | M o r e T e m p l a t e s | rgb(17, 17, 17) | 8px | fixed | 1
+Closed | 560,30 | 320x60 | Majd | rgb(17, 17, 17) | 20px | relative | 1
+Navigation Bar | 560,30 | 320x60 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Logo & Hamburger | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Variant 1 | 820,42 | 44x36 |  | rgb(250, 247, 243) | 8px | relative | 1
+Main | 0,0 | 1440x2002 | My Brightest Thoughts Discover ideas, perspectives, and creative think | rgba(0, 0, 0, 0) |  | relative | 1
+Projects Section | 0,0 | 1440x2002 | My Brightest Thoughts Discover ideas, perspectives, and creative think | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 180,180 | 1080x1702 | My Brightest Thoughts Discover ideas, perspectives, and creative think | rgba(0, 0, 0, 0) |  | relative | 1
+Title & description | 180,180 | 1080x230 | My Brightest Thoughts Discover ideas, perspectives, and creative think | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 180,470 | 349x460 | May 5, 2025 Building Trust Through Clear Design How thoughtful visual  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 180,470 | 349x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 180,608 | 349x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 200,751 | 309x159 | May 5, 2025 Building Trust Through Clear Design How thoughtful visual  | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 200,751 | 309x104 | May 5, 2025 Building Trust Through Clear Design | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 545,470 | 349x460 | Jun 16, 2025 The Role of Art Direction in Branding Why visual directio | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 545,470 | 349x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 545,608 | 349x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 565,751 | 309x159 | Jun 16, 2025 The Role of Art Direction in Branding Why visual directio | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 565,751 | 309x104 | Jun 16, 2025 The Role of Art Direction in Branding | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 911,470 | 349x460 | Jun 16, 2025 How Creative Teams Build Brand Systems A look at the work | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 911,470 | 349x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 911,608 | 349x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 931,751 | 309x159 | Jun 16, 2025 How Creative Teams Build Brand Systems A look at the work | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 931,751 | 309x104 | Jun 16, 2025 How Creative Teams Build Brand Systems | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 180,946 | 349x460 | Jun 16, 2025 The Rise of Modern Tech Startup Websites Why tech startup | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 180,946 | 349x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 180,1084 | 349x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 200,1188 | 309x197 | Jun 16, 2025 The Rise of Modern Tech Startup Websites Why tech startup | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 200,1188 | 309x143 | Jun 16, 2025 The Rise of Modern Tech Startup Websites | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 545,946 | 349x460 | Jun 16, 2025 Top Web Design Trends to Watch in 2025 Stay ahead of the  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 545,946 | 349x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 545,1084 | 349x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 565,1188 | 309x197 | Jun 16, 2025 Top Web Design Trends to Watch in 2025 Stay ahead of the  | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 565,1188 | 309x143 | Jun 16, 2025 Top Web Design Trends to Watch in 2025 | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 911,946 | 349x460 | May 5, 2025 Designing Products with Clear Purpose How mission-led desi | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 911,946 | 349x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 911,1084 | 349x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 931,1227 | 309x159 | May 5, 2025 Designing Products with Clear Purpose How mission-led desi | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 931,1227 | 309x104 | May 5, 2025 Designing Products with Clear Purpose | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 180,1422 | 349x460 | May 5, 2025 Starting and Growing a Career in Web Design Web design ble | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 180,1422 | 349x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 180,1560 | 349x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 200,1664 | 309x197 | May 5, 2025 Starting and Growing a Career in Web Design Web design ble | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 200,1664 | 309x143 | May 5, 2025 Starting and Growing a Career in Web Design | rgba(0, 0, 0, 0) |  | relative | 1
+Desktop | 0,2002 | 1440x624 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgb(17, 17, 17) |  | relative | 1
+Container | 130,2122 | 1180x204 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgba(0, 0, 0, 0) |  | relative | 1
+Columns | 590,2194 | 720x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Quick Links | 590,2194 | 300x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 590,2245 | 300x80 | H o m e A b o u t M e S e r v i c e s W o r k s C o n t a c t | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 590,2255 | 74x35 | H o m e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 674,2255 | 99x35 | A b o u t M e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 783,2255 | 92x35 | S e r v i c e s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 590,2300 | 77x35 | W o r k s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 677,2300 | 87x35 | C o n t a c t | rgb(250, 247, 243) | 8px | relative | 1
+Contact | 1010,2194 | 300x76 | /Contact Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 1010,2245 | 300x25 | Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Light | 1280,842 | 140x38 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | relative | 1
+Backdrop | 1281,843 | 138x36 |  | rgb(255, 255, 255) | 10px | absolute | 1
+Content | 1291,853 | 119x16 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | absolute | 1
+Logo | 1291,851 | 12x20 |  | rgb(0, 0, 0) |  | absolute | 1
+Text | 1313,856 | 97x10 |  | rgb(0, 0, 0) |  | relative | 1
+Bottom | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.06
+Border | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.04
+
+## Text
+A | U s e f o r F r e e | 1260,756 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | U s e f o r F r e e | 1298,764 | 84x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | M o r e T e m p l a t e s | 1260,799 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | M o r e T e m p l a t e s | 1284,807 | 113x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+P | Majd | 576,45 | 46x31 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Majd | 576,43 | 46x33 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H1 | My Brightest Thoughts | 180,180 | 620x144 | Archivo | 72px | 700 | 72px | -1.44px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Discover ideas, perspectives, and creative thinking shaped by our work in brand identity a | 180,334 | 460x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | May 5, 2025 Building Trust Through Clear Design How thoughtful visual choices create a str | 180,470 | 349x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+P | May 5, 2025 | 200,751 | 309x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H3 | Building Trust Through Clear Design | 200,778 | 309x77 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | How thoughtful visual choices create a stronger sense of reliability for modern brands. | 200,865 | 309x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Jun 16, 2025 The Role of Art Direction in Branding Why visual direction helps brands creat | 545,470 | 349x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+P | Jun 16, 2025 | 565,751 | 309x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H3 | The Role of Art Direction in Branding | 565,778 | 309x77 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Why visual direction helps brands create emotion and a distinct point of view. | 565,865 | 309x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Jun 16, 2025 How Creative Teams Build Brand Systems A look at the workflows that keep bran | 911,470 | 349x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+H3 | How Creative Teams Build Brand Systems | 931,778 | 309x77 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | A look at the workflows that keep branding consistent across every touchpoint. | 931,865 | 309x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Jun 16, 2025 The Rise of Modern Tech Startup Websites Why tech startups need clear, high t | 180,946 | 349x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+P | Jun 16, 2025 | 200,1188 | 309x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H3 | The Rise of Modern Tech Startup Websites | 200,1216 | 309x115 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Why tech startups need clear, high trust digital experiences to communicate and attract us | 200,1341 | 309x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Jun 16, 2025 Top Web Design Trends to Watch in 2025 Stay ahead of the curve with these key | 545,946 | 349x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+H3 | Top Web Design Trends to Watch in 2025 | 565,1216 | 309x115 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Stay ahead of the curve with these key design trends shaping the future of the web. | 565,1341 | 309x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | May 5, 2025 Designing Products with Clear Purpose How mission-led design turns digital pro | 911,946 | 349x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+P | May 5, 2025 | 931,1227 | 309x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H3 | Designing Products with Clear Purpose | 931,1254 | 309x77 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | How mission-led design turns digital products into richer, more meaningful experiences. | 931,1341 | 309x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | May 5, 2025 Starting and Growing a Career in Web Design Web design blends creativity and t | 180,1422 | 349x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+P | May 5, 2025 | 200,1664 | 309x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H3 | Starting and Growing a Career in Web Design | 200,1692 | 309x115 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Web design blends creativity and tech, offering strong demand and roles in design. | 200,1817 | 309x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Scaling Start-ups for Growth. | 130,2122 | 340x204 | Archivo | 68px | 600 | 68px | -1.36px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Quick links | 590,2194 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | H o m e | 590,2255 | 74x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | H o m e | 606,2263 | 42x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | A b o u t M e | 674,2255 | 99x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | A b o u t M e | 690,2263 | 67x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | S e r v i c e s | 783,2255 | 92x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | S e r v i c e s | 799,2263 | 60x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | W o r k s | 590,2300 | 77x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | W o r k s | 606,2308 | 45x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | C o n t a c t | 677,2300 | 87x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | C o n t a c t | 693,2308 | 55x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Contact | 1010,2194 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Mejed@Templyo.io | 1010,2255 | 300x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Mejed@Templyo.io | 1010,2254 | 143x27 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | MAJD | 120,2391 | 1200x375 | Archivo | 416.951px | 700 | 375.256px | -8.33901px | rgba(250, 247, 243, 0.1) | rgba(0, 0, 0, 0) |  | op:1
+A | Create a free website with Framer, the website builder loved by startups, designers and ag | 1280,842 | 140x38 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+
+## Images
+IMG | 180,470 | 349x460 |  | https://framerusercontent.com/images/lxtBXj3G7Bloek83WxPY1ZUuw0Q.png?scale-down-to=512&width=640&height=360
+IMG | 545,470 | 349x460 |  | https://framerusercontent.com/images/ic9k42rYytbJtnRUJXdcNxCHSc.png?scale-down-to=512&width=640&height=359
+IMG | 911,470 | 349x460 |  | https://framerusercontent.com/images/MWSFsHfw8FDzKSMZllibGDMY4CU.png?scale-down-to=512&width=640&height=360
+IMG | 180,946 | 349x460 |  | https://framerusercontent.com/images/Mirnh1WfdeIPhnjStrfY33WLFo8.png?scale-down-to=512&width=640&height=427
+IMG | 545,946 | 349x460 |  | https://framerusercontent.com/images/xgMwYRclJvAhqaJhMbQm8kpRv0.png?scale-down-to=512&width=640&height=427
+IMG | 911,946 | 349x460 |  | https://framerusercontent.com/images/VIMRfiZ27XChz1XOgjss4EmUoDM.png?scale-down-to=512&width=640&height=480
+IMG | 180,1422 | 349x460 |  | https://framerusercontent.com/images/HH3YKlPdNvuWQdn3ypOgOThmOk.png?scale-down-to=512&width=640&height=427
+
+## Backgrounds
+ | 0,0 | 1440x2626 | url("https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png")
+ | 180,470 | 349x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L
+ | 545,470 | 349x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L
+ | 911,470 | 349x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L
+ | 180,946 | 349x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L
+ | 545,946 | 349x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L
+ | 911,946 | 349x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L
+ | 180,1422 | 349x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L

@@ -1,0 +1,133 @@
+# work__damas-1440.json
+scroll 5421 width 1440
+body {"backgroundColor":"rgb(250, 247, 243)","color":"rgb(0, 0, 0)","fontFamily":"sans-serif","fontSize":"12px"}
+
+## Named layout
+Navigation Link | 1260,756 | 160x35 | U s e f o r F r e e | rgb(17, 17, 17) | 8px | fixed | 1
+Navigation Link | 1260,799 | 160x35 | M o r e T e m p l a t e s | rgb(17, 17, 17) | 8px | fixed | 1
+Closed | 560,30 | 320x60 | Majd | rgb(17, 17, 17) | 20px | relative | 1
+Navigation Bar | 560,30 | 320x60 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Logo & Hamburger | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Variant 1 | 820,42 | 44x36 |  | rgb(250, 247, 243) | 8px | relative | 1
+Main | 0,0 | 1440x4797 | Damas Category Free Framer Template / Year 2025 / Live Link Damas is a | rgba(0, 0, 0, 0) |  | relative | 1
+Work Section | 0,0 | 1440x4161 | Damas Category Free Framer Template / Year 2025 / Live Link Damas is a | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 180,160 | 1080x3921 | Damas Category Free Framer Template / Year 2025 / Live Link Damas is a | rgba(0, 0, 0, 0) |  | relative | 1
+Content | 180,160 | 1080x3921 | Damas Category Free Framer Template / Year 2025 / Live Link Damas is a | rgba(0, 0, 0, 0) |  | relative | 1
+Details | 180,160 | 1080x3921 | Damas Category Free Framer Template / Year 2025 / Live Link Damas is a | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 180,160 | 1080x293 | Damas Category Free Framer Template / Year 2025 / Live Link Damas is a | rgba(255, 255, 255, 0) |  | relative | 1
+Label & Title | 180,160 | 1080x72 | Damas | rgba(0, 0, 0, 0) |  | relative | 1
+Title | 180,160 | 780x72 | Damas | rgba(0, 0, 0, 0) |  | relative | 1
+Description & Project Details | 180,352 | 1080x101 | Category Free Framer Template / Year 2025 / Live Link Damas is a moder | rgba(255, 255, 255, 0) |  | relative | 1
+Project Details | 180,401 | 624x52 | Category Free Framer Template / Year 2025 / Live Link | rgba(255, 255, 255, 0) |  | relative | 1
+Category | 180,401 | 161x52 | Category Free Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Year | 389,401 | 38x52 | Year 2025 | rgba(0, 0, 0, 0) |  | relative | 1
+Client | 474,425 | 101x28 | Live Link | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 474,425 | 101x28 | Live Link | rgba(255, 255, 255, 0) |  | relative | 1
+Arrow Button | 547,425 | 28x28 |  | rgba(0, 0, 0, 0) | 8px | relative | 1
+Image | 180,493 | 1080x742 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Intro Content | 180,1275 | 740x489 | About the Template Damas is a refined digital template crafted for mod | rgba(0, 0, 0, 0) |  | relative | 1
+Images | 180,1804 | 1080x390 |  | rgba(0, 0, 0, 0) |  | relative | 1
+Image | 180,1804 | 520x390 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 740,1804 | 520x390 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Body Content | 180,2234 | 740x670 | Visual Language Damas uses a minimal yet striking visual approach. Str | rgba(0, 0, 0, 0) |  | relative | 1
+Image | 180,2943 | 1080x742 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Outro Content | 180,3725 | 740x356 | A Foundation for Growth Damas is more than a template—it’s a system de | rgba(0, 0, 0, 0) |  | relative | 1
+More Projects | 0,4171 | 1440x626 | More Projects Najm SaaS Framer Template Kavi AI Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 180,4171 | 1080x546 | More Projects Najm SaaS Framer Template Kavi AI Framer Template | rgba(255, 0, 0, 0) |  | relative | 1
+Work Cards | 180,4279 | 1080x438 | Najm SaaS Framer Template Kavi AI Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Project Card | 180,4299 | 532x438 | Najm SaaS Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 180,4299 | 532x367 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 180,4299 | 532x367 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 180,4676 | 532x61 | Najm SaaS Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 728,4299 | 532x438 | Kavi AI Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 728,4299 | 532x367 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 728,4299 | 532x367 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 728,4676 | 532x61 | Kavi AI Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Desktop | 0,4797 | 1440x624 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgb(17, 17, 17) |  | relative | 1
+Container | 130,4917 | 1180x204 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgba(0, 0, 0, 0) |  | relative | 1
+Columns | 590,4989 | 720x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Quick Links | 590,4989 | 300x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 590,5041 | 300x80 | H o m e A b o u t M e S e r v i c e s W o r k s C o n t a c t | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 590,5051 | 74x35 | H o m e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 674,5051 | 99x35 | A b o u t M e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 783,5051 | 92x35 | S e r v i c e s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 590,5096 | 77x35 | W o r k s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 677,5096 | 87x35 | C o n t a c t | rgb(250, 247, 243) | 8px | relative | 1
+Contact | 1010,4989 | 300x76 | /Contact Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 1010,5041 | 300x25 | Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Light | 1280,842 | 140x38 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | relative | 1
+Backdrop | 1281,843 | 138x36 |  | rgb(255, 255, 255) | 10px | absolute | 1
+Content | 1291,853 | 119x16 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | absolute | 1
+Logo | 1291,851 | 12x20 |  | rgb(0, 0, 0) |  | absolute | 1
+Text | 1313,856 | 97x10 |  | rgb(0, 0, 0) |  | relative | 1
+Bottom | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.06
+Border | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.04
+
+## Text
+A | U s e f o r F r e e | 1260,756 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | U s e f o r F r e e | 1298,764 | 84x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | M o r e T e m p l a t e s | 1260,799 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | M o r e T e m p l a t e s | 1284,807 | 113x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+P | Majd | 576,45 | 46x31 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Majd | 576,43 | 46x33 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H1 | Damas | 180,160 | 780x72 | Archivo | 72px | 700 | 72px | -1.44px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Category | 180,401 | 60x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | Free Framer Template | 180,428 | 161x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Year | 389,401 | 29x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | 2025 | 389,428 | 38x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Live Link | 474,425 | 101x28 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+P | Live Link | 474,426 | 63x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Damas is a modern creative agency template built for bold visuals, smooth interactions, an | 804,352 | 456x101 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | About the Template | 180,1275 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Damas is a refined digital template crafted for modern brands that value clarity, elegance | 180,1357 | 740x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | At its core, Damas is about balance. It blends bold structure with subtle sophistication,  | 180,1453 | 740x50 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Designing for Impact, Built for Flexibility | 180,1543 | 740x125 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | The goal behind Damas was to create a system that doesn’t just look good, but performs. Ev | 180,1688 | 740x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Visual Language | 180,2234 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Damas uses a minimal yet striking visual approach. Strong typography anchors the layout, w | 180,2316 | 740x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Subtle contrasts and refined alignments bring a sense of precision, helping content stand  | 180,2412 | 740x50 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Structured Storytelling | 180,2502 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | The layout is designed to flow naturally—from introduction to deeper engagement. Each sect | 180,2584 | 740x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | This structure ensures that users not only explore, but understand and connect with the co | 180,2680 | 740x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Built for Real Use | 180,2745 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Beyond aesthetics, Damas is highly practical. It’s optimized for performance, responsivene | 180,2828 | 740x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | A Foundation for Growth | 180,3725 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Damas is more than a template—it’s a system designed to evolve with the brand using it. Wh | 180,3808 | 740x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Clarity that Scales with You | 180,3923 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Every element within Damas is crafted to serve a purpose—bringing together design and func | 180,4006 | 740x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | More Projects | 180,4171 | 417x68 | Archivo | 68px | 600 | 68px | -1.36px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Najm SaaS Framer Template | 180,4299 | 532x438 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Najm | 180,4676 | 532x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | SaaS Framer Template | 180,4715 | 532x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Kavi AI Framer Template | 728,4299 | 532x438 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Kavi | 728,4676 | 532x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | AI Framer Template | 728,4715 | 532x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Scaling Start-ups for Growth. | 130,4917 | 340x204 | Archivo | 68px | 600 | 68px | -1.36px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Quick links | 590,4989 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | H o m e | 590,5051 | 74x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | H o m e | 606,5059 | 42x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | A b o u t M e | 674,5051 | 99x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | A b o u t M e | 690,5059 | 67x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | S e r v i c e s | 783,5051 | 92x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | S e r v i c e s | 799,5059 | 60x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | W o r k s | 590,5096 | 77x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | W o r k s | 606,5104 | 45x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | C o n t a c t | 677,5096 | 87x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | C o n t a c t | 693,5104 | 55x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Contact | 1010,4989 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Mejed@Templyo.io | 1010,5051 | 300x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Mejed@Templyo.io | 1010,5050 | 143x27 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | MAJD | 120,5186 | 1200x375 | Archivo | 416.951px | 700 | 375.256px | -8.33901px | rgba(250, 247, 243, 0.1) | rgba(0, 0, 0, 0) |  | op:1
+A | Create a free website with Framer, the website builder loved by startups, designers and ag | 1280,842 | 140x38 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+
+## Images
+IMG | 180,493 | 1080x742 |  | https://framerusercontent.com/images/VNXQLcPHw9VbVzy6BDpZ8pUsaU.png?width=1160&height=800
+IMG | 180,1804 | 520x390 |  | https://framerusercontent.com/images/173P7WbvHMc1Z9lNpSNy6GIYif8.png?width=1066&height=800
+IMG | 740,1804 | 520x390 |  | https://framerusercontent.com/images/UmXfpYfVhYqoqb1DnbFpIC98OIo.png?width=1066&height=800
+IMG | 180,2943 | 1080x742 |  | https://framerusercontent.com/images/rRp1KaDwStpJ6Pxo05Doj1IjSU.png?width=1066&height=800
+IMG | 180,4299 | 532x367 |  | https://framerusercontent.com/images/WgEHVRrQs62rgxlzrnXJJ8rr4.png?width=1160&height=800
+IMG | 728,4299 | 532x367 |  | https://framerusercontent.com/images/I3azeVtkvdKBGl9TX38tUdXEb0.png?width=1160&height=800
+
+## Backgrounds
+ | 0,0 | 1440x5421 | url("https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png")

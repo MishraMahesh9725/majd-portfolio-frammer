@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{description:`Software engineer and Framer creator with a strong focus on building modern, scalable, and conversion-driven web experiences. `,favicon:`https://framerusercontent.com/assets/ue9IClg37SpZ5YcBTAPeavvDUNo.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/BMKOu79jBtM2GOCccyl1NoizDoU.png`,title:`Majd`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=shared-lib.Dz719HuG.mjs.map

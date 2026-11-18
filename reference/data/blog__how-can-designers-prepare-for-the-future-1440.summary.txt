@@ -1,0 +1,153 @@
+# blog__how-can-designers-prepare-for-the-future-1440.json
+scroll 4364 width 1440
+body {"backgroundColor":"rgb(250, 247, 243)","color":"rgb(0, 0, 0)","fontFamily":"sans-serif","fontSize":"12px"}
+
+## Named layout
+Navigation Link | 1260,756 | 160x35 | U s e f o r F r e e | rgb(17, 17, 17) | 8px | fixed | 1
+Navigation Link | 1260,799 | 160x35 | M o r e T e m p l a t e s | rgb(17, 17, 17) | 8px | fixed | 1
+Closed | 560,30 | 320x60 | Majd | rgb(17, 17, 17) | 20px | relative | 1
+Navigation Bar | 560,30 | 320x60 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Logo & Hamburger | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Variant 1 | 820,42 | 44x36 |  | rgb(250, 247, 243) | 8px | relative | 1
+Article Section | 0,0 | 1440x3097 | Building Trust Through Clear Design Vintage car restoration blends eng | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 180,160 | 1080x2857 | Building Trust Through Clear Design Vintage car restoration blends eng | rgba(0, 0, 0, 0) |  | relative | 1
+Content | 180,160 | 740x2857 | Building Trust Through Clear Design Vintage car restoration blends eng | rgba(0, 0, 0, 0) |  | relative | 1
+Details | 180,160 | 740x204 | Building Trust Through Clear Design Vintage car restoration blends eng | rgba(0, 0, 0, 0) |  | relative | 1
+Title | 180,160 | 740x144 | Building Trust Through Clear Design | rgba(0, 0, 0, 0) |  | relative | 1
+Summary | 180,314 | 740x50 | Vintage car restoration blends engineering, artistry, and historical r | rgba(0, 0, 0, 0) |  | relative | 1
+Date & Banner | 180,384 | 740x472 | May 5, 2025 7 min read | rgba(0, 0, 0, 0) |  | relative | 1
+Date & Read Time | 180,384 | 740x22 | May 5, 2025 7 min read | rgba(0, 0, 0, 0) |  | relative | 1
+Date | 180,384 | 80x22 | May 5, 2025 | rgba(0, 0, 0, 0) |  | relative | 1
+Read Time | 853,384 | 67x22 | 7 min read | rgba(0, 0, 0, 0) |  | relative | 1
+Image | 180,427 | 740x430 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Content | 180,877 | 740x2141 | Why Restore Vintage Cars? Vintage car restoration is more than a hobby | rgba(0, 0, 0, 0) |  | relative | 1
+Sidebar | 960,160 | 300x900 | Join the newsletter Be the first to read our articles. S u b m i t | rgba(0, 0, 0, 0) |  | sticky | 1
+Newsletter | 960,845 | 300x215 | Join the newsletter Be the first to read our articles. S u b m i t | rgb(17, 17, 17) | 18px | relative | 1
+Text | 980,865 | 260x61 | Join the newsletter Be the first to read our articles. | rgba(0, 0, 0, 0) |  | relative | 1
+Default | 980,1000 | 260x40 | S u b m i t | rgb(250, 247, 243) | 8px | relative | 1
+More Articles | 0,3097 | 1440x642 | More Articles Jun 16, 2025 The Role of Art Direction in Branding Why v | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 180,3097 | 1080x562 | More Articles Jun 16, 2025 The Role of Art Direction in Branding Why v | rgba(255, 0, 0, 0) |  | relative | 1
+Blog Cards | 180,3200 | 1080x460 | Jun 16, 2025 The Role of Art Direction in Branding Why visual directio | rgba(255, 255, 255, 0) |  | relative | 1
+Primary | 180,3220 | 347x460 | Jun 16, 2025 The Role of Art Direction in Branding Why visual directio | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 180,3220 | 347x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 180,3358 | 347x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 200,3501 | 307x159 | Jun 16, 2025 The Role of Art Direction in Branding Why visual directio | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 200,3501 | 307x104 | Jun 16, 2025 The Role of Art Direction in Branding | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 547,3220 | 347x460 | Jun 16, 2025 How Creative Teams Build Brand Systems A look at the work | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 547,3220 | 347x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 547,3358 | 347x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 567,3501 | 307x159 | Jun 16, 2025 How Creative Teams Build Brand Systems A look at the work | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 567,3501 | 307x104 | Jun 16, 2025 How Creative Teams Build Brand Systems | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 913,3220 | 347x460 | Jun 16, 2025 The Rise of Modern Tech Startup Websites Why tech startup | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 913,3220 | 347x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 913,3358 | 347x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 933,3462 | 307x197 | Jun 16, 2025 The Rise of Modern Tech Startup Websites Why tech startup | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 933,3462 | 307x143 | Jun 16, 2025 The Rise of Modern Tech Startup Websites | rgba(0, 0, 0, 0) |  | relative | 1
+Desktop | 0,3740 | 1440x624 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgb(17, 17, 17) |  | relative | 1
+Container | 130,3860 | 1180x204 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgba(0, 0, 0, 0) |  | relative | 1
+Columns | 590,3932 | 720x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Quick Links | 590,3932 | 300x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 590,3983 | 300x80 | H o m e A b o u t M e S e r v i c e s W o r k s C o n t a c t | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 590,3993 | 74x35 | H o m e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 674,3993 | 99x35 | A b o u t M e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 783,3993 | 92x35 | S e r v i c e s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 590,4039 | 77x35 | W o r k s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 677,4039 | 87x35 | C o n t a c t | rgb(250, 247, 243) | 8px | relative | 1
+Contact | 1010,3932 | 300x76 | /Contact Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 1010,3983 | 300x25 | Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Light | 1280,842 | 140x38 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | relative | 1
+Backdrop | 1281,843 | 138x36 |  | rgb(255, 255, 255) | 10px | absolute | 1
+Content | 1291,853 | 119x16 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | absolute | 1
+Logo | 1291,851 | 12x20 |  | rgb(0, 0, 0) |  | absolute | 1
+Text | 1313,856 | 97x10 |  | rgb(0, 0, 0) |  | relative | 1
+Bottom | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.06
+Border | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.04
+
+## Text
+A | U s e f o r F r e e | 1260,756 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | U s e f o r F r e e | 1298,764 | 84x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | M o r e T e m p l a t e s | 1260,799 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | M o r e T e m p l a t e s | 1284,807 | 113x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+P | Majd | 576,45 | 46x31 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Majd | 576,43 | 46x33 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H1 | Building Trust Through Clear Design | 180,160 | 740x144 | Archivo | 72px | 700 | 72px | -1.44px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Vintage car restoration blends engineering, artistry, and historical research to revive au | 180,314 | 740x50 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | May 5, 2025 | 180,384 | 80x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | 7 min read | 853,384 | 67x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Why Restore Vintage Cars? | 180,877 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Vintage car restoration is more than a hobby—it’s a way to preserve the craftsmanship, eng | 180,959 | 740x101 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | The Restoration Process | 180,1100 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Restoration begins long before tools meet metal. Enthusiasts and mechanics start with meti | 180,1182 | 740x50 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Original factory drawings and blueprints | 201,1265 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Historic color charts and paint formulations | 201,1290 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Interior materials and trim details | 201,1315 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Mechanical specifications and assembly methods | 201,1340 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | The goal is authenticity—every restored car should closely mirror its original form, prese | 180,1386 | 740x50 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Mechanical Rebuilding | 180,1476 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Engines, transmissions, and suspension systems require detailed attention. This often invo | 180,1558 | 740x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Careful disassembly and cleaning of components | 201,1616 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Machining worn parts to precise tolerances | 201,1641 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Rebuilding and fine-tuning for performance and reliability | 201,1666 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Custom fabrication or sourcing rare components no longer in production | 201,1691 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Restorers may spend months tracking down elusive parts, turning the mechanical process int | 180,1736 | 740x50 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Bodywork and Paint | 180,1827 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Restoring the exterior is an art form. Specialists repair rust, reshape panels, and apply  | 180,1909 | 740x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Interior Craftsmanship | 180,2025 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | The interior brings the car’s personality to life. Leather, stitching, wood panels, gauges | 180,2107 | 740x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | The Value of Preservation | 180,2223 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Vintage car restoration keeps automotive history alive. It celebrates: | 180,2305 | 740x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Design heritage and the evolution of style | 201,2363 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Engineering advancements and mechanical ingenuity | 201,2388 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | The passion and dedication of artisans and enthusiasts | 201,2413 | 719x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Each restored car is a rolling piece of history, a tangible connection to the past, and a  | 180,2458 | 740x50 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Bringing Your Passion Online | 180,2549 | 740x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | If you’re inspired by vintage cars and want to showcase your restoration projects, a profe | 180,2631 | 740x101 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Templyo | 481,2706 | 63x27 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | One Workflow for Every Platform | 180,2772 | 740x125 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Most restorers don’t post on just one network. Short clips work on TikTok and Reels, detai | 180,2917 | 740x101 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H5 | Join the newsletter | 980,865 | 260x29 | Archivo | 24px | 600 | 28.8px | -0.96px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Be the first to read our articles. | 980,904 | 260x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+BUTTON | S u b m i t | 980,1000 | 260x40 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 0) | rgb(250, 247, 243) | 8px | op:1
+P | S u b m i t | 1085,1010 | 50x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 0) | rgba(0, 0, 0, 0) |  | op:1
+H2 | More Articles | 180,3097 | 303x62 | Archivo | 52px | 600 | 62.4px | -1.04px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Jun 16, 2025 The Role of Art Direction in Branding Why visual direction helps brands creat | 180,3220 | 347x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+P | Jun 16, 2025 | 200,3501 | 307x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H3 | The Role of Art Direction in Branding | 200,3528 | 307x77 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Why visual direction helps brands create emotion and a distinct point of view. | 200,3615 | 307x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Jun 16, 2025 How Creative Teams Build Brand Systems A look at the workflows that keep bran | 547,3220 | 347x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+H3 | How Creative Teams Build Brand Systems | 567,3528 | 307x77 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | A look at the workflows that keep branding consistent across every touchpoint. | 567,3615 | 307x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Jun 16, 2025 The Rise of Modern Tech Startup Websites Why tech startups need clear, high t | 913,3220 | 347x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+P | Jun 16, 2025 | 933,3462 | 307x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H3 | The Rise of Modern Tech Startup Websites | 933,3490 | 307x115 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Why tech startups need clear, high trust digital experiences to communicate and attract us | 933,3615 | 307x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Scaling Start-ups for Growth. | 130,3860 | 340x204 | Archivo | 68px | 600 | 68px | -1.36px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Quick links | 590,3932 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | H o m e | 590,3993 | 74x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | H o m e | 606,4001 | 42x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | A b o u t M e | 674,3993 | 99x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | A b o u t M e | 690,4001 | 67x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | S e r v i c e s | 783,3993 | 92x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | S e r v i c e s | 799,4001 | 60x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | W o r k s | 590,4039 | 77x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | W o r k s | 606,4047 | 45x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | C o n t a c t | 677,4039 | 87x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | C o n t a c t | 693,4047 | 55x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Contact | 1010,3932 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Mejed@Templyo.io | 1010,3993 | 300x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Mejed@Templyo.io | 1010,3992 | 143x27 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | MAJD | 120,4129 | 1200x375 | Archivo | 416.951px | 700 | 375.256px | -8.33901px | rgba(250, 247, 243, 0.1) | rgba(0, 0, 0, 0) |  | op:1
+A | Create a free website with Framer, the website builder loved by startups, designers and ag | 1280,842 | 140x38 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+
+## Images
+IMG | 180,427 | 740x430 |  | https://framerusercontent.com/images/lxtBXj3G7Bloek83WxPY1ZUuw0Q.png?width=640&height=360
+IMG | 180,3220 | 347x460 |  | https://framerusercontent.com/images/ic9k42rYytbJtnRUJXdcNxCHSc.png?width=640&height=359
+IMG | 547,3220 | 347x460 |  | https://framerusercontent.com/images/MWSFsHfw8FDzKSMZllibGDMY4CU.png?width=640&height=360
+IMG | 913,3220 | 347x460 |  | https://framerusercontent.com/images/Mirnh1WfdeIPhnjStrfY33WLFo8.png?width=640&height=427
+
+## Backgrounds
+ | 0,0 | 1440x4364 | url("https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png")
+ | 180,3220 | 347x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L
+ | 547,3220 | 347x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L
+ | 913,3220 | 347x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L

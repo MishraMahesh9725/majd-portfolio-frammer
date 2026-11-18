@@ -1,0 +1,265 @@
+# home-1440.json
+scroll 7798 width 1440
+body {"backgroundColor":"rgb(250, 247, 243)","color":"rgb(0, 0, 0)","fontFamily":"sans-serif","fontSize":"12px"}
+
+## Named layout
+Navigation Link | 1260,756 | 160x35 | U s e f o r F r e e | rgb(17, 17, 17) | 8px | fixed | 1
+Navigation Link | 1260,799 | 160x35 | M o r e T e m p l a t e s | rgb(17, 17, 17) | 8px | fixed | 1
+Closed | 560,30 | 320x60 | Majd | rgb(17, 17, 17) | 20px | relative | 1
+Navigation Bar | 560,30 | 320x60 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Logo & Hamburger | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Variant 1 | 820,42 | 44x36 |  | rgb(250, 247, 243) | 8px | relative | 1
+Main | 0,0 | 1440x7174 | SOFTWARE ENGINEER ©2026 /CREATING SINCE 2020 Hey! I’m Majd, a builder  | rgba(0, 0, 0, 0) |  | relative | 1
+Hero & Bio Sections | 0,0 | 1440x1800 | SOFTWARE ENGINEER ©2026 /CREATING SINCE 2020 Hey! I’m Majd, a builder  | rgba(0, 0, 0, 0) |  | relative | 1
+Sticky Avatar Wrap | 0,0 | 1440x1800 |  | rgba(0, 0, 0, 0) |  | relative | 1
+Sticky Container | 0,0 | 1440x900 |  | rgba(0, 0, 0, 0) |  | sticky | 1
+Avatar Wrap | 520,424 | 400x456 |  | rgba(0, 0, 0, 0) |  | relative | 1
+Avatar - Back | 620,652 | 200x228 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Avatar - Front | 620,652 | 200x228 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Content | 0,0 | 1440x1800 | SOFTWARE ENGINEER ©2026 /CREATING SINCE 2020 Hey! I’m Majd, a builder  | rgba(0, 0, 0, 0) |  | absolute | 1
+Hero Section | 0,0 | 1440x900 | SOFTWARE ENGINEER ©2026 /CREATING SINCE 2020 | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 130,0 | 1180x900 | SOFTWARE ENGINEER ©2026 /CREATING SINCE 2020 | rgba(0, 0, 0, 0) |  | relative | 1
+Title | 130,293 | 1180x313 | SOFTWARE ENGINEER | rgba(0, 0, 0, 0) |  | relative | 1
+holo_triangle_rounded | 1147,508 | 198x198 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+holo_triangle_rounded | 114,233 | 140x140 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Text | 130,812 | 1180x68 | ©2026 /CREATING SINCE 2020 | rgba(0, 0, 0, 0) |  | absolute | 1
+Bio Section | 0,900 | 1440x900 | Hey! I’m Majd, a builder based in Syria, currently working on Templyo, | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 130,1321 | 1180x479 | Hey! I’m Majd, a builder based in Syria, currently working on Templyo, | rgba(0, 0, 0, 0) |  | relative | 1
+Title & Description | 130,1321 | 300x459 | Hey! I’m Majd, a builder based in Syria, currently working on Templyo, | rgba(0, 0, 0, 0) |  | relative | 1
+Paragraphs | 950,1321 | 360x459 | I’m a software engineer and Framer creator with a strong focus on buil | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 950,1752 | 122x28 | Get Started | rgba(255, 255, 255, 0) |  | relative | 1
+Arrow Button | 1044,1752 | 28x28 |  | rgba(0, 0, 0, 0) | 8px | relative | 1
+Quote Section | 0,1810 | 1440x1350 | Fromideatolaunch.Clean,scalabledigitalproductsbuilttomovefast,staysimp | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 130,1810 | 1180x1350 | Fromideatolaunch.Clean,scalabledigitalproductsbuilttomovefast,staysimp | rgba(0, 0, 0, 0) |  | relative | 1
+Content | 130,1810 | 1180x900 | Fromideatolaunch.Clean,scalabledigitalproductsbuilttomovefast,staysimp | rgba(0, 0, 0, 0) |  | sticky | 1
+Services Section | 0,3170 | 1440x664 | Services Website Migration Web Migration Optimization Framer Rebuild F | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 130,3170 | 1180x664 | Services Website Migration Web Migration Optimization Framer Rebuild F | rgba(0, 0, 0, 0) |  | relative | 1
+Services Cards | 130,3306 | 1180x528 | Website Migration Web Migration Optimization Framer Rebuild Framer Tem | rgba(0, 0, 0, 0) |  | relative | 1
+Desktop | 130,3326 | 1180x120 | Website Migration Web Migration Optimization Framer Rebuild | rgb(250, 247, 243) |  | relative | 1
+Categories | 951,3373 | 359x25 | Web Migration Optimization Framer Rebuild | rgba(0, 0, 0, 0) |  | relative | 1
+Desktop | 130,3462 | 1180x120 | Framer Templates Startup Agency SaaS | rgb(250, 247, 243) |  | relative | 1
+Categories | 1111,3509 | 199x25 | Startup Agency SaaS | rgba(0, 0, 0, 0) |  | relative | 1
+Desktop | 130,3598 | 1180x120 | Frontend Development UI Dev Responsive Layouts Web Performance | rgb(250, 247, 243) |  | relative | 1
+Categories | 931,3645 | 379x25 | UI Dev Responsive Layouts Web Performance | rgba(0, 0, 0, 0) |  | relative | 1
+Desktop | 130,3734 | 1180x120 | Product Consulting Product Direction Web Strategy Technical Guidance | rgb(250, 247, 243) |  | relative | 1
+Categories | 892,3781 | 418x25 | Product Direction Web Strategy Technical Guidance | rgba(0, 0, 0, 0) |  | relative | 1
+Projects Section | 0,3844 | 1440x1292 | Featured Projects View All Work Damas Agency Framer Template Najm SaaS | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 130,3964 | 1180x1172 | Featured Projects View All Work Damas Agency Framer Template Najm SaaS | rgba(0, 0, 0, 0) |  | relative | 1
+Title & Button | 130,3964 | 1180x152 | Featured Projects View All Work | rgba(0, 0, 0, 0) |  | relative | 1
+Button Wrap | 1174,4088 | 136x28 | View All Work | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 1174,4088 | 136x28 | View All Work | rgba(255, 255, 255, 0) |  | relative | 1
+Arrow Button | 1282,4088 | 28x28 |  | rgba(0, 0, 0, 0) | 8px | relative | 1
+Project Card | 130,4196 | 582x472 | Damas Agency Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 130,4196 | 582x401 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 130,4196 | 582x401 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 130,4607 | 582x61 | Damas Agency Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 728,4196 | 582x472 | Najm SaaS Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 728,4196 | 582x401 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 728,4196 | 582x401 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 728,4607 | 582x61 | Najm SaaS Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 130,4684 | 582x472 | Kavi AI Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 130,4684 | 582x401 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 130,4684 | 582x401 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 130,5096 | 582x61 | Kavi AI Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 728,4684 | 582x472 | Sham Studio Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 728,4684 | 582x401 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 728,4684 | 582x401 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 728,5096 | 582x61 | Sham Studio Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Testimonials Section | 0,5146 | 1440x596 | Testimonials Templyo completely changed how I approach building sites  | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 130,5266 | 1180x476 | Testimonials Templyo completely changed how I approach building sites  | rgba(0, 0, 0, 0) |  | relative | 1
+Testimonials Cards | 130,5402 | 1180x340 | Templyo completely changed how I approach building sites in Framer. Th | rgba(0, 0, 0, 0) |  | relative | 1
+Back Face | 130,5402 | 283x340 | Templyo completely changed how I approach building sites in Framer. Th | rgba(0, 0, 0, 0) | 20px | relative | 1
+Front Face | 130,5402 | 283x340 | Templyo completely changed how I approach building sites in Framer. Th | rgb(17, 17, 17) | 20px | absolute | 1
+Author | 150,5672 | 243x50 | Yakoub Kashmiri Marketing Director | rgba(255, 255, 255, 0) |  | relative | 1
+Name & Role | 150,5675 | 185x45 | Yakoub Kashmiri Marketing Director | rgba(0, 0, 0, 0) |  | relative | 1
+Back Face | 130,5402 | 283x340 |  | rgb(17, 17, 17) | 20px | absolute | 1
+Logo | 241,5542 | 60x60 |  | rgba(0, 0, 0, 0) |  | relative | 1
+Back Face | 429,5402 | 283x340 | I’ve tried dozens of Framer templates, but Templyo stands out. Everyth | rgba(0, 0, 0, 0) | 20px | relative | 1
+Front Face | 429,5402 | 283x340 | I’ve tried dozens of Framer templates, but Templyo stands out. Everyth | rgb(17, 17, 17) | 20px | absolute | 1
+Author | 449,5672 | 243x50 | Daniel K. Indie Maker | rgba(255, 255, 255, 0) |  | relative | 1
+Name & Role | 449,5675 | 185x45 | Daniel K. Indie Maker | rgba(0, 0, 0, 0) |  | relative | 1
+Back Face | 429,5402 | 283x340 |  | rgb(17, 17, 17) | 20px | absolute | 1
+Logo | 540,5542 | 60x60 |  | rgba(0, 0, 0, 0) |  | relative | 1
+Back Face | 728,5402 | 283x340 | Templyo saved me weeks of work. I was able to launch my landing page i | rgba(0, 0, 0, 0) | 20px | relative | 1
+Front Face | 728,5402 | 283x340 | Templyo saved me weeks of work. I was able to launch my landing page i | rgb(17, 17, 17) | 20px | absolute | 1
+Author | 748,5672 | 243x50 | Mark M. Startup Founder | rgba(255, 255, 255, 0) |  | relative | 1
+Name & Role | 748,5675 | 185x45 | Mark M. Startup Founder | rgba(0, 0, 0, 0) |  | relative | 1
+Back Face | 728,5402 | 283x340 |  | rgb(17, 17, 17) | 20px | absolute | 1
+Logo | 839,5542 | 60x60 |  | rgba(0, 0, 0, 0) |  | relative | 1
+Back Face | 1027,5402 | 283x340 | The quality is insane. Clean structure, smooth animations, and super e | rgba(0, 0, 0, 0) | 20px | relative | 1
+Front Face | 1027,5402 | 283x340 | The quality is insane. Clean structure, smooth animations, and super e | rgb(17, 17, 17) | 20px | absolute | 1
+Author | 1047,5672 | 243x50 | Omar H. Frontend Developer | rgba(255, 255, 255, 0) |  | relative | 1
+Name & Role | 1047,5675 | 185x45 | Omar H. Frontend Developer | rgba(0, 0, 0, 0) |  | relative | 1
+Back Face | 1027,5402 | 283x340 |  | rgb(17, 17, 17) | 20px | absolute | 1
+Logo | 1138,5542 | 60x60 |  | rgba(0, 0, 0, 0) |  | relative | 1
+Testimonials Section | 0,5752 | 1440x716 | Thoughts May 5, 2025 Building Trust Through Clear Design How thoughtfu | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 130,5872 | 1180x596 | Thoughts May 5, 2025 Building Trust Through Clear Design How thoughtfu | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 130,6028 | 383x460 | May 5, 2025 Building Trust Through Clear Design How thoughtful visual  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 130,6028 | 383x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 130,6166 | 383x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 150,6309 | 343x159 | May 5, 2025 Building Trust Through Clear Design How thoughtful visual  | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 150,6309 | 343x104 | May 5, 2025 Building Trust Through Clear Design | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 529,6028 | 383x460 | Jun 16, 2025 The Role of Art Direction in Branding Why visual directio | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 529,6028 | 383x460 |  | rgba(0, 0, 0, 0) |  | absolute | 1
+Overlay | 529,6166 | 383x322 |  | rgba(0, 0, 0, 0) | 0px 0px 20px 20px | absolute | 1
+Content | 549,6309 | 343x159 | Jun 16, 2025 The Role of Art Direction in Branding Why visual directio | rgba(255, 255, 255, 0) |  | relative | 1
+Title & Date | 549,6309 | 343x104 | Jun 16, 2025 The Role of Art Direction in Branding | rgba(0, 0, 0, 0) |  | relative | 1
+All Posts Card | 927,6028 | 383x460 | See how we shape brands with clarity and craft— explore our blog View  | rgb(17, 17, 17) | 16px | relative | 0
+White | 951,6436 | 136x28 | View All Work | rgba(255, 255, 255, 0) |  | relative | 1
+Arrow Button | 1060,6436 | 28x28 |  | rgba(0, 0, 0, 0) | 8px | relative | 1
+Contact Section | 0,6478 | 1440x695 | Let’s talk. Have a project or need help? Fill out the form, and we'll  | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 130,6598 | 1180x455 | Let’s talk. Have a project or need help? Fill out the form, and we'll  | rgba(0, 0, 0, 0) |  | relative | 1
+Main | 130,6598 | 640x455 | Let’s talk. Have a project or need help? Fill out the form, and we'll  | rgba(0, 0, 0, 0) |  | relative | 1
+Title & Description | 130,6598 | 640x111 | Let’s talk. Have a project or need help? Fill out the form, and we'll  | rgba(0, 0, 0, 0) |  | relative | 1
+Social Media Icons | 130,7014 | 640x40 |  | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 130,7024 | 40x40 |  | rgba(0, 0, 0, 0.1) | 8px | relative | 1
+Primary | 186,7024 | 40x40 |  | rgba(0, 0, 0, 0.1) | 8px | relative | 1
+Primary | 242,7024 | 40x40 |  | rgba(0, 0, 0, 0.1) | 8px | relative | 1
+Primary | 298,7024 | 40x40 |  | rgba(0, 0, 0, 0.1) | 8px | relative | 1
+Default | 826,7014 | 468x44 | S u b m i t | rgb(250, 247, 243) | 8px | relative | 1
+Desktop | 0,7174 | 1440x624 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgb(17, 17, 17) |  | relative | 1
+Container | 130,7294 | 1180x204 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgba(0, 0, 0, 0) |  | relative | 1
+Columns | 590,7366 | 720x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Quick Links | 590,7366 | 300x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 590,7417 | 300x80 | H o m e A b o u t M e S e r v i c e s W o r k s C o n t a c t | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 590,7427 | 74x35 | H o m e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 674,7427 | 99x35 | A b o u t M e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 783,7427 | 92x35 | S e r v i c e s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 590,7472 | 77x35 | W o r k s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 677,7472 | 87x35 | C o n t a c t | rgb(250, 247, 243) | 8px | relative | 1
+Contact | 1010,7366 | 300x76 | /Contact Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 1010,7417 | 300x25 | Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Light | 1280,842 | 140x38 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | relative | 1
+Backdrop | 1281,843 | 138x36 |  | rgb(255, 255, 255) | 10px | absolute | 1
+Content | 1291,853 | 119x16 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | absolute | 1
+Logo | 1291,851 | 12x20 |  | rgb(0, 0, 0) |  | absolute | 1
+Text | 1313,856 | 97x10 |  | rgb(0, 0, 0) |  | relative | 1
+Bottom | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.06
+Border | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.04
+
+## Text
+A | U s e f o r F r e e | 1260,756 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | U s e f o r F r e e | 1298,764 | 84x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | M o r e T e m p l a t e s | 1260,799 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | M o r e T e m p l a t e s | 1284,807 | 113x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+P | Majd | 576,45 | 46x31 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Majd | 576,43 | 46x33 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H1 | SOFTWARE ENGINEER | 130,293 | 1180x313 | Archivo | 174px | 800 | 156.6px | -3.48px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | ©2026 | 130,812 | 202x68 | Archivo | 68px | 600 | 68px | -1.36px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | /CREATING SINCE 2020 | 1123,855 | 187x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Hey! | 130,1321 | 300x76 | Archivo | 76px | 600 | 76px | -1.52px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | I’m Majd, a builder based in Syria, currently working on Templyo, a platform for high-qual | 130,1657 | 300x123 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | I’m a software engineer and Framer creator with a strong focus on building modern, scalabl | 950,1561 | 360x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Over the years, I’ve created and shipped multiple SaaS products and Framer templates used  | 950,1656 | 360x76 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Get Started | 950,1752 | 122x28 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+P | Get Started | 950,1753 | 84x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Services | 130,3170 | 1180x76 | Archivo | 76px | 600 | 76px | -1.52px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H3 | Website Migration | 130,3367 | 248x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Web Migration | 951,3373 | 105x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | Optimization | 1080,3373 | 93x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | Framer Rebuild | 1197,3373 | 113x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+H3 | Framer Templates | 130,3503 | 250x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Startup | 1111,3509 | 54x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | Agency | 1189,3509 | 56x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | SaaS | 1269,3509 | 41x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+H3 | Frontend Development | 130,3639 | 319x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | UI Dev | 931,3645 | 50x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | Responsive Layouts | 1005,3645 | 149x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | Web Performance | 1178,3645 | 132x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+H3 | Product Consulting | 130,3775 | 266x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Product Direction | 892,3781 | 127x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | Web Strategy | 1043,3781 | 98x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+P | Technical Guidance | 1165,3781 | 145x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgba(17, 17, 17, 0.5) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Featured Projects | 130,3964 | 460x152 | Archivo | 76px | 600 | 76px | -1.52px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | View All Work | 1174,4088 | 136x28 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+P | View All Work | 1174,4089 | 98x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Damas Agency Framer Template | 130,4196 | 582x472 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Damas | 130,4607 | 582x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Agency Framer Template | 130,4646 | 582x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Najm SaaS Framer Template | 728,4196 | 582x472 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Najm | 728,4607 | 582x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | SaaS Framer Template | 728,4646 | 582x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Kavi AI Framer Template | 130,4684 | 582x472 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Kavi | 130,5096 | 582x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | AI Framer Template | 130,5134 | 582x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Sham Studio Framer Template | 728,4684 | 582x472 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Sham | 728,5096 | 582x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Studio Framer Template | 728,5134 | 582x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Testimonials | 130,5266 | 1180x76 | Archivo | 76px | 600 | 76px | -1.52px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Templyo completely changed how I approach building sites in Framer. The templates are not  | 150,5422 | 243x151 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Yakoub Kashmiri | 226,5675 | 109x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Marketing Director | 218,5697 | 116x22 | Archivo | 16px | 300 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | I’ve tried dozens of Framer templates, but Templyo stands out. Everything feels intentiona | 449,5422 | 243x126 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Daniel K. | 575,5675 | 58x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Indie Maker | 560,5697 | 74x22 | Archivo | 16px | 300 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Templyo saved me weeks of work. I was able to launch my landing page in a day, and it stil | 748,5422 | 243x101 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Mark M. | 880,5675 | 52x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Startup Founder | 829,5697 | 104x22 | Archivo | 16px | 300 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | The quality is insane. Clean structure, smooth animations, and super easy to customize. It | 1047,5422 | 243x126 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Omar H. | 1176,5675 | 55x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Frontend Developer | 1104,5697 | 127x22 | Archivo | 16px | 300 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Thoughts | 130,5872 | 1180x76 | Archivo | 76px | 600 | 76px | -1.52px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | May 5, 2025 Building Trust Through Clear Design How thoughtful visual choices create a str | 130,6028 | 383x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+P | May 5, 2025 | 150,6309 | 343x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H3 | Building Trust Through Clear Design | 150,6337 | 343x77 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | How thoughtful visual choices create a stronger sense of reliability for modern brands. | 150,6424 | 343x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Jun 16, 2025 The Role of Art Direction in Branding Why visual direction helps brands creat | 529,6028 | 383x460 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) | 20px | op:1
+P | Jun 16, 2025 | 549,6309 | 343x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H3 | The Role of Art Direction in Branding | 549,6337 | 343x77 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Why visual direction helps brands create emotion and a distinct point of view. | 549,6424 | 343x45 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | See how we shape brands with clarity and craft— explore our blog | 951,6052 | 335x264 | Archivo | 44px | 400 | 52.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | View All Work | 951,6436 | 136x28 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+P | View All Work | 951,6438 | 98x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Let’s talk. | 130,6598 | 640x76 | Archivo | 76px | 600 | 76px | -1.52px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Have a project or need help? Fill out the form, and we'll get back to you soon. | 130,6684 | 640x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+LABEL | Name | 826,6634 | 468x74 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 0) | rgba(0, 0, 0, 0) |  | op:1
+P | Name | 826,6634 | 40x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+LABEL | Email | 826,6729 | 468x74 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 0) | rgba(0, 0, 0, 0) |  | op:1
+P | Email | 826,6729 | 37x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+LABEL | Your Project | 826,6823 | 468x170 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 0) | rgba(0, 0, 0, 0) |  | op:1
+P | Your Project | 826,6823 | 78x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+BUTTON | S u b m i t | 826,7014 | 468x44 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 0) | rgb(250, 247, 243) | 8px | op:1
+P | S u b m i t | 1035,7026 | 50x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 0) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Scaling Start-ups for Growth. | 130,7294 | 340x204 | Archivo | 68px | 600 | 68px | -1.36px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Quick links | 590,7366 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | H o m e | 590,7427 | 74x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | H o m e | 606,7435 | 42x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | A b o u t M e | 674,7427 | 99x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | A b o u t M e | 690,7435 | 67x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | S e r v i c e s | 783,7427 | 92x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | S e r v i c e s | 799,7435 | 60x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | W o r k s | 590,7472 | 77x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | W o r k s | 606,7480 | 45x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | C o n t a c t | 677,7472 | 87x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | C o n t a c t | 693,7480 | 55x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Contact | 1010,7366 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Mejed@Templyo.io | 1010,7427 | 300x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Mejed@Templyo.io | 1010,7426 | 143x27 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | MAJD | 120,7563 | 1200x375 | Archivo | 416.951px | 700 | 375.256px | -8.33901px | rgba(250, 247, 243, 0.1) | rgba(0, 0, 0, 0) |  | op:1
+A | Create a free website with Framer, the website builder loved by startups, designers and ag | 1280,842 | 140x38 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+
+## Images
+IMG | 620,652 | 200x228 | Portrait of portfolio creator – back view | https://framerusercontent.com/images/haSjyjpt7FyCjJUBvXtmzCMSEQg.png?scale-down-to=1024&width=800&height=1072
+IMG | 620,652 | 200x228 | Portrait of portfolio creator – front view | https://framerusercontent.com/images/haSjyjpt7FyCjJUBvXtmzCMSEQg.png?scale-down-to=1024&width=800&height=1072
+IMG | 1147,508 | 198x198 |  | https://framerusercontent.com/images/lIIjRX5gxRdY7UWw5wqIXicPOA.png?scale-down-to=512&width=2550&height=2550
+IMG | 114,233 | 140x140 |  | https://framerusercontent.com/images/OLDYsHB9RMavvQrkVRNy08ZXYE.png?scale-down-to=512&width=2550&height=2550
+IMG | 130,4196 | 582x401 |  | https://framerusercontent.com/images/VNXQLcPHw9VbVzy6BDpZ8pUsaU.png?scale-down-to=1024&width=1160&height=800
+IMG | 728,4196 | 582x401 |  | https://framerusercontent.com/images/WgEHVRrQs62rgxlzrnXJJ8rr4.png?scale-down-to=1024&width=1160&height=800
+IMG | 130,4684 | 582x401 |  | https://framerusercontent.com/images/I3azeVtkvdKBGl9TX38tUdXEb0.png?scale-down-to=1024&width=1160&height=800
+IMG | 728,4684 | 582x401 |  | https://framerusercontent.com/images/e3DxUGJWqt7CIVVQIA0VZoy09FQ.png?scale-down-to=1024&width=1160&height=800
+IMG | 343,5672 | 50x50 | man standing near balcony | https://framerusercontent.com/images/kAftuUN9iRKwIt9M6RqZo9NS314.jpg?scale-down-to=1024&width=3840&height=5275
+IMG | 241,5542 | 60x60 |  | https://framerusercontent.com/images/MG7SSqT3AUbDDMeyGynYFWvAWI.png?width=160&height=160
+IMG | 642,5672 | 50x50 | grayscale photo of man | https://framerusercontent.com/images/HqoHkPp6dpJFdgMqUKIaAXmy7o.jpg?scale-down-to=512&width=3220&height=3220
+IMG | 540,5542 | 60x60 |  | https://framerusercontent.com/images/yceQCLz3chOtgu2oZRjmfEKjY.png?width=160&height=160
+IMG | 941,5672 | 50x50 | man standing near white wall | https://framerusercontent.com/images/Y9KmJAQ4w53hsc4jJojfokLZ7D8.jpg?scale-down-to=1024&width=2662&height=3993
+IMG | 839,5542 | 60x60 |  | https://framerusercontent.com/images/gN85dqTeMmVvE57UMiHhgeL4P4.png?width=196&height=160
+IMG | 1240,5672 | 50x50 | man in black button-up shirt | https://framerusercontent.com/images/HH8KrojyxZx6X20z1r13CSwiiWE.jpg?scale-down-to=512&width=3648&height=3648
+IMG | 1138,5542 | 60x60 |  | https://framerusercontent.com/images/WsYTUG4cqmLIU4lwbMUQX7FdOY.png?width=160&height=160
+IMG | 130,6028 | 383x460 |  | https://framerusercontent.com/images/lxtBXj3G7Bloek83WxPY1ZUuw0Q.png?scale-down-to=512&width=640&height=360
+IMG | 529,6028 | 383x460 |  | https://framerusercontent.com/images/ic9k42rYytbJtnRUJXdcNxCHSc.png?scale-down-to=512&width=640&height=359
+
+## Backgrounds
+ | 0,0 | 1440x7798 | url("https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png")
+ | 130,6028 | 383x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L
+ | 529,6028 | 383x460 | url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22126%22 height=%22126%22><path id=%22a%22 d=%22M126 0v21.584L21.584 126H0v-17.585L108.415 0H126Zm0 108.414V126h-17.586L126 108.414Zm0-84v39.171L

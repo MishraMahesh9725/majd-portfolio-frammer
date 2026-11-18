@@ -1,0 +1,123 @@
+# work-1440.json
+scroll 3132 width 1440
+body {"backgroundColor":"rgb(250, 247, 243)","color":"rgb(0, 0, 0)","fontFamily":"sans-serif","fontSize":"12px"}
+
+## Named layout
+Navigation Link | 1260,756 | 160x35 | U s e f o r F r e e | rgb(17, 17, 17) | 8px | fixed | 1
+Navigation Link | 1260,799 | 160x35 | M o r e T e m p l a t e s | rgb(17, 17, 17) | 8px | fixed | 1
+Closed | 560,30 | 320x60 | Majd | rgb(17, 17, 17) | 20px | relative | 1
+Navigation Bar | 560,30 | 320x60 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Logo & Hamburger | 576,42 | 288x36 | Majd | rgba(0, 0, 0, 0) |  | relative | 1
+Variant 1 | 820,42 | 44x36 |  | rgb(250, 247, 243) | 8px | relative | 1
+Main | 0,0 | 1440x2508 | My Brightest Creations A showcase of my latest projects, highlighting  | rgba(0, 0, 0, 0) |  | relative | 1
+Projects Section | 0,0 | 1440x2508 | My Brightest Creations A showcase of my latest projects, highlighting  | rgba(0, 0, 0, 0) |  | relative | 1
+Container | 130,180 | 1180x2208 | My Brightest Creations A showcase of my latest projects, highlighting  | rgba(0, 0, 0, 0) |  | relative | 1
+Title & description | 130,180 | 1180x204 | My Brightest Creations A showcase of my latest projects, highlighting  | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 130,444 | 580x471 | Damas Agency Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 130,444 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 130,444 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 130,854 | 580x61 | Damas Agency Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 730,444 | 580x471 | Najm SaaS Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 730,444 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 730,444 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 730,854 | 580x61 | Najm SaaS Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 130,935 | 580x471 | Kavi AI Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 130,935 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 130,935 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 130,1345 | 580x61 | Kavi AI Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 730,935 | 580x471 | Sham Studio Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 730,935 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 730,935 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 730,1345 | 580x61 | Sham Studio Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 130,1426 | 580x471 | AiWings Generate Images & Videos in Your AI Agent | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 130,1426 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 130,1426 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 130,1836 | 580x61 | AiWings Generate Images & Videos in Your AI Agent | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 730,1426 | 580x471 | Abjad AI Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 730,1426 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 730,1426 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 730,1836 | 580x61 | Abjad AI Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Project Card | 130,1917 | 580x471 | Faseelh Environmental Framer Template | rgba(255, 255, 255, 0) |  | relative | 1
+Image Wrap | 130,1917 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | relative | 1
+Image | 130,1917 | 580x400 |  | rgba(0, 0, 0, 0) | 20px | absolute | 1
+Title & Description | 130,2327 | 580x61 | Faseelh Environmental Framer Template | rgba(0, 0, 0, 0) |  | relative | 1
+Desktop | 0,2508 | 1440x624 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgb(17, 17, 17) |  | relative | 1
+Container | 130,2628 | 1180x204 | Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r | rgba(0, 0, 0, 0) |  | relative | 1
+Columns | 590,2700 | 720x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Quick Links | 590,2700 | 300x132 | /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 590,2751 | 300x80 | H o m e A b o u t M e S e r v i c e s W o r k s C o n t a c t | rgba(0, 0, 0, 0) |  | relative | 1
+Primary | 590,2761 | 74x35 | H o m e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 674,2761 | 99x35 | A b o u t M e | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 783,2761 | 92x35 | S e r v i c e s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 590,2806 | 77x35 | W o r k s | rgb(250, 247, 243) | 8px | relative | 1
+Primary | 677,2806 | 87x35 | C o n t a c t | rgb(250, 247, 243) | 8px | relative | 1
+Contact | 1010,2700 | 300x76 | /Contact Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Links | 1010,2751 | 300x25 | Mejed@Templyo.io | rgba(0, 0, 0, 0) |  | relative | 1
+Light | 1280,842 | 140x38 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | relative | 1
+Backdrop | 1281,843 | 138x36 |  | rgb(255, 255, 255) | 10px | absolute | 1
+Content | 1291,853 | 119x16 | Create a free website with Framer, the website builder loved by startu | rgba(0, 0, 0, 0) |  | absolute | 1
+Logo | 1291,851 | 12x20 |  | rgb(0, 0, 0) |  | absolute | 1
+Text | 1313,856 | 97x10 |  | rgb(0, 0, 0) |  | relative | 1
+Bottom | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.06
+Border | 1280,842 | 140x38 |  | rgba(0, 0, 0, 0) | 11px | absolute | 0.04
+
+## Text
+A | U s e f o r F r e e | 1260,756 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | U s e f o r F r e e | 1298,764 | 84x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | M o r e T e m p l a t e s | 1260,799 | 160x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(17, 17, 17) | 8px | op:1
+P | M o r e T e m p l a t e s | 1284,807 | 113x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+P | Majd | 576,45 | 46x31 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Majd | 576,43 | 46x33 | Archivo | 22px | 600 | 30.8px | -0.88px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+H1 | My Brightest Creations | 130,180 | 620x144 | Archivo | 72px | 700 | 72px | -1.44px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | A showcase of my latest projects, highlighting thoughtful design, clear strategy, and impa | 130,334 | 460x50 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Damas Agency Framer Template | 130,444 | 580x471 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Damas | 130,854 | 580x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Agency Framer Template | 130,893 | 580x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Najm SaaS Framer Template | 730,444 | 580x471 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Najm | 730,854 | 580x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | SaaS Framer Template | 730,893 | 580x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Kavi AI Framer Template | 130,935 | 580x471 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Kavi | 130,1345 | 580x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | AI Framer Template | 130,1384 | 580x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Sham Studio Framer Template | 730,935 | 580x471 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Sham | 730,1345 | 580x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Studio Framer Template | 730,1384 | 580x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | AiWings Generate Images & Videos in Your AI Agent | 130,1426 | 580x471 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | AiWings | 130,1836 | 580x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Generate Images & Videos in Your AI Agent | 130,1874 | 580x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Abjad AI Framer Template | 730,1426 | 580x471 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Abjad | 730,1836 | 580x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | AI Framer Template | 730,1874 | 580x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+A | Faseelh Environmental Framer Template | 130,1917 | 580x471 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(255, 255, 255, 0) |  | op:1
+H3 | Faseelh | 130,2327 | 580x38 | Archivo | 32px | 500 | 38.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+P | Environmental Framer Template | 130,2365 | 580x22 | Archivo | 16px | 400 | 22.4px | -0.64px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H2 | Scaling Start-ups for Growth. | 130,2628 | 340x204 | Archivo | 68px | 600 | 68px | -1.36px | rgb(17, 17, 17) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Quick links | 590,2700 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | H o m e | 590,2761 | 74x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | H o m e | 606,2769 | 42x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | A b o u t M e | 674,2761 | 99x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | A b o u t M e | 690,2769 | 67x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | S e r v i c e s | 783,2761 | 92x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | S e r v i c e s | 799,2769 | 60x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | W o r k s | 590,2806 | 77x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | W o r k s | 606,2814 | 45x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+A | C o n t a c t | 677,2806 | 87x35 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgb(250, 247, 243) | 8px | op:1
+P | C o n t a c t | 693,2814 | 55x19 | Archivo | 16px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+H4 | /Contact | 1010,2700 | 300x31 | Archivo | 26px | 500 | 31.2px |  | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | Mejed@Templyo.io | 1010,2761 | 300x25 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+A | Mejed@Templyo.io | 1010,2760 | 143x27 | Archivo | 18px | 400 | 25.2px | -0.72px | rgb(250, 247, 243) | rgba(0, 0, 0, 0) |  | op:1
+P | MAJD | 120,2897 | 1200x375 | Archivo | 416.951px | 700 | 375.256px | -8.33901px | rgba(250, 247, 243, 0.1) | rgba(0, 0, 0, 0) |  | op:1
+A | Create a free website with Framer, the website builder loved by startups, designers and ag | 1280,842 | 140x38 | sans-serif | 12px | 400 |  |  | rgb(0, 0, 238) | rgba(0, 0, 0, 0) |  | op:1
+
+## Images
+IMG | 130,444 | 580x400 |  | https://framerusercontent.com/images/VNXQLcPHw9VbVzy6BDpZ8pUsaU.png?width=1160&height=800
+IMG | 730,444 | 580x400 |  | https://framerusercontent.com/images/WgEHVRrQs62rgxlzrnXJJ8rr4.png?width=1160&height=800
+IMG | 130,935 | 580x400 |  | https://framerusercontent.com/images/I3azeVtkvdKBGl9TX38tUdXEb0.png?width=1160&height=800
+IMG | 730,935 | 580x400 |  | https://framerusercontent.com/images/e3DxUGJWqt7CIVVQIA0VZoy09FQ.png?width=1160&height=800
+IMG | 130,1426 | 580x400 |  | https://framerusercontent.com/images/SOwGxRIvO8EvbSat0MXEYt38e74.png?scale-down-to=1024&width=2400&height=1260
+IMG | 730,1426 | 580x400 |  | https://framerusercontent.com/images/l08IN6OxWS7DxFD28fNZXjCT4.png?scale-down-to=1024&width=1160&height=800
+IMG | 130,1917 | 580x400 |  | https://framerusercontent.com/images/IBHqRDPghoZPLzWsGC2SWmPo.png?scale-down-to=1024&width=1160&height=800
+
+## Backgrounds
+ | 0,0 | 1440x3132 | url("https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png")

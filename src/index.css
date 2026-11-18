@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #111111;
+  background: #faf7f3;
+  font-family: Archivo, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #faf7f3;
+  color: #111111;
+  text-rendering: optimizeLegibility;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 70;
+  pointer-events: none;
+  opacity: 0.07;
+  background-image: url("/assets/rR6HYXBrMmX4cRpXfXUOvpvpB0.png");
+  background-size: 180px;
+  mix-blend-mode: multiply;
+}
+
+body.menu-open {
+  overflow: hidden;
+}
+
+:focus-visible {
+  outline: 2px solid #111111;
+  outline-offset: 3px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.shell {
+  @apply mx-auto w-full px-5 md:px-[62px] xl:px-[130px];
+}
+
+.shell-wide {
+  @apply mx-auto w-full px-5 md:px-8 xl:px-[180px];
+}
+
+.h-hero {
+  font-size: 46px;
+  font-weight: 800;
+  line-height: 0.9;
+  letter-spacing: -0.02em;
+}
+
+.h-section {
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.h-card {
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.h-page {
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.h-article {
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.copy {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: -0.04em;
+}
+
+.copy-strong {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.04em;
+}
+
+.meta {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: -0.04em;
+}
+
+@media (min-width: 810px) {
+  .h-hero { font-size: 120px; }
+  .h-section { font-size: 62px; }
+  .h-card { font-size: 30px; }
+  .h-page { font-size: 62px; }
+  .h-article { font-size: 44px; }
+}
+
+@media (min-width: 1200px) {
+  .h-hero { font-size: 174px; }
+  .h-section { font-size: 76px; }
+  .h-card { font-size: 32px; }
+  .h-page { font-size: 72px; }
+  .h-article { font-size: 52px; }
+}
