@@ -2,7 +2,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { useEffect, useState } from "react";
 import { Outlet, useLocation } from "react-router-dom";
 import { Footer } from "./Footer";
-import { Navbar, PromoLinks } from "./Navbar";
+import { Navbar } from "./Navbar";
 
 export function Layout() {
   const location = useLocation();
@@ -26,7 +26,6 @@ export function Layout() {
   return (
     <>
       <Navbar open={open} setOpen={setOpen} />
-      <PromoLinks />
       <AnimatePresence mode="wait">
         <motion.main
           key={location.pathname}

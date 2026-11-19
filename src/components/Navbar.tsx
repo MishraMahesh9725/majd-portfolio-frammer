@@ -67,35 +67,3 @@ export function Navbar({ open, setOpen }: { open: boolean; setOpen: (value: bool
     </>
   );
 }
-
-export function PromoLinks() {
-  return (
-    <div className="fixed bottom-5 right-5 z-40 flex flex-col items-end gap-2">
-      <a
-        href="https://framer.link/bsFvFjY"
-        target="_blank"
-        rel="noreferrer"
-        className="grid h-[35px] w-40 place-items-center rounded-lg bg-ink text-[16px] font-medium tracking-display text-cream"
-      >
-        Use for Free
-      </a>
-      <a
-        href="https://framer.link/5Wi1vkP"
-        target="_blank"
-        rel="noreferrer"
-        className="grid h-[35px] w-40 place-items-center rounded-lg bg-ink text-[16px] font-medium tracking-display text-cream"
-      >
-        More Templates
-      </a>
-      <a
-        href="https://www.framer.com"
-        target="_blank"
-        rel="noreferrer"
-        className="flex h-[38px] items-center gap-1.5 rounded-[10px] bg-white px-2.5 text-[10px] font-medium text-black shadow-sm"
-      >
-        <span className="grid h-5 w-3 place-items-center font-black">F</span>
-        Made in Framer
-      </a>
-    </div>
-  );
-}
